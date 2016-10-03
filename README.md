@@ -1,4 +1,5 @@
 # Project 3: Unsupervised Learning
+#### Shitao Wang submission version 2
 ## Creating Customer Segments
 
 ### Install
